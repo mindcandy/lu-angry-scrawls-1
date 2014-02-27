@@ -5,7 +5,9 @@ This is a starter project and tutorial to help you learn how to make games with 
 
 It is part of a series of Unity tutorials from Mind Candy - for more info see the [Mind Candy Tech Blog](http://tech.mindcandy.com/)
 
-[Step-by-step instructions](AngryScrawlsInstructions.pdf) are supplied. There will also be a video in the future!
+[Step-by-step instructions](AngryScrawlsInstructions.pdf) are supplied. 
+
+A [video tutorial is also available](http://youtu.be/yeMP2hWsL0o).
 
 Note that this material is release under the MIT license so please feel free to use it to teach yourself or others. You must acknowledge Mind Candy as the author of this work, and include the relevant LICENSE file in any redistributions.
 
